@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TMSModelStoreContainer" CdmEntityContainer="TMSEntities">
+    <EntitySetMapping Name="Vehicles">
+      <EntityTypeMapping TypeName="TMSModel.Vehicle">
+        <MappingFragment StoreEntitySet="Vehicles">
+          <ScalarProperty Name="VehicleNo" ColumnName="vehID" />
+          <ScalarProperty Name="vehName" ColumnName="vehName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

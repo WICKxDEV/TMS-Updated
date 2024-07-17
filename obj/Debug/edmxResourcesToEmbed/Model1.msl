@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TravelMSModelStoreContainer" CdmEntityContainer="TravelMSEntities">
+    <EntitySetMapping Name="Vehicles">
+      <EntityTypeMapping TypeName="TravelMSModel.Vehicle">
+        <MappingFragment StoreEntitySet="Vehicles">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Vehicle_No" ColumnName="Vehicle_No" />
+          <ScalarProperty Name="Driver_Name" ColumnName="Driver_Name" />
+          <ScalarProperty Name="Driver_Mobile" ColumnName="Driver_Mobile" />
+          <ScalarProperty Name="GPS_No" ColumnName="GPS_No" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

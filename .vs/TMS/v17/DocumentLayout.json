@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\SLIATEOLD\\Project TMS\\TMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80328280-A1E6-4906-89D4-D758364736FA}|TMS.csproj|e:\\sliateold\\project tms\\tms\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80328280-A1E6-4906-89D4-D758364736FA}|TMS.csproj|solutionrelative:mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80328280-A1E6-4906-89D4-D758364736FA}|TMS.csproj|E:\\SLIATEOLD\\Project TMS\\TMS\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80328280-A1E6-4906-89D4-D758364736FA}|TMS.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80328280-A1E6-4906-89D4-D758364736FA}|TMS.csproj|E:\\SLIATEOLD\\Project TMS\\TMS\\frmpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80328280-A1E6-4906-89D4-D758364736FA}|TMS.csproj|solutionrelative:frmpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80328280-A1E6-4906-89D4-D758364736FA}|TMS.csproj|E:\\SLIATEOLD\\Project TMS\\TMS\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{80328280-A1E6-4906-89D4-D758364736FA}|TMS.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainClass.cs",
+              "DocumentMoniker": "E:\\SLIATEOLD\\Project TMS\\TMS\\MainClass.cs",
+              "RelativeDocumentMoniker": "MainClass.cs",
+              "ToolTip": "E:\\SLIATEOLD\\Project TMS\\TMS\\MainClass.cs",
+              "RelativeToolTip": "MainClass.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAUwA8AAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T17:22:15.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmPOS.cs",
+              "DocumentMoniker": "E:\\SLIATEOLD\\Project TMS\\TMS\\frmPOS.cs",
+              "RelativeDocumentMoniker": "frmPOS.cs",
+              "ToolTip": "E:\\SLIATEOLD\\Project TMS\\TMS\\frmPOS.cs",
+              "RelativeToolTip": "frmPOS.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-17T17:21:09.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "E:\\SLIATEOLD\\Project TMS\\TMS\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "E:\\SLIATEOLD\\Project TMS\\TMS\\frmMain.cs",
+              "RelativeToolTip": "frmMain.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T17:21:09.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "E:\\SLIATEOLD\\Project TMS\\TMS\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "E:\\SLIATE\\Project TMS\\TMS\\frmMain.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\SLIATE\\Project TMS\\TMS\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-17T17:21:10.046Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
